@@ -5,8 +5,12 @@ hackeryu314159
 # 使用GitHub目的
 主要是在我的github上放上我自己或和同伴做的程式，
 希望可以放上來與大家共享，有任何事情也可以直接和我說喔。
+# 有興趣的東西
+希歡跑車,電腦等科技類的東西，熱愛寫程式。
 # 開發的東西
-https://github.com/hackeryu314159/ch-en-translate
+中英文翻譯器：https://github.com/hackeryu314159/ch-en-translate
+# 合作夥伴們
+Jimmy876135	
 <!---
 hackeryu314159/hackeryu314159 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
