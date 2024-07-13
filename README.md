@@ -12,6 +12,7 @@ https://huggingface.co/spaces/hackeryu314159/hackeryu314159.
 # 開發的東西
 中英文翻譯器：https://github.com/hackeryu314159/ch-en-translate
 yt轉mp3工具:https://github.com/hackeryu314159/ytmp3-python
+縮網址工具：https://github.com/hackeryu314159/python-shorturl
 # 社群網站
 https://github.com/hackeryu314159,https://huggingface.co/hackeryu314159.
 # 合作夥伴們
