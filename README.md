@@ -16,6 +16,8 @@ yt轉mp3工具:https://github.com/hackeryu314159/ytmp3-python
 qrcode生成器：https://github.com/hackeryu314159/python-qrcode-make
 文章生成工具：https://github.com/hackeryu314159/chatgpt-2-wordmake
 網站ip查詢工具：https://github.com/hackeryu314159/ip-host-python-
+barcode生成工具：https://github.com/hackeryu314159/Python-barcode
+
 # 社群網站
 https://github.com/hackeryu314159,https://huggingface.co/hackeryu314159.
 # 合作夥伴們
