@@ -8,18 +8,18 @@ theoyu314159
 # 有興趣的東西
 喜歡跑車,電腦等科技類的東西，熱愛寫程式。
 # 我的官網
-https://huggingface.co/spaces/hackeryu314159/hackeryu314159.
+https://huggingface.co/spaces/theoyu314159/theoyu314159.
 # 開發的東西
-中英文翻譯器：https://github.com/hackeryu314159/ch-en-translate
-yt轉mp3工具:https://github.com/hackeryu314159/ytmp3-python
-縮網址工具：https://github.com/hackeryu314159/python-shorturl
-qrcode生成器：https://github.com/hackeryu314159/python-qrcode-make
-文章生成工具：https://github.com/hackeryu314159/chatgpt-2-wordmake
-網站ip查詢工具：https://github.com/hackeryu314159/ip-host-python-
-barcode生成工具：https://github.com/hackeryu314159/Python-barcode
+中英文翻譯器：https://github.com/theoyu314159/ch-en-translate
+yt轉mp3工具:https://github.com/theoyu314159/ytmp3-python
+縮網址工具：https://github.com/theoyu314159/python-shorturl
+qrcode生成器：https://github.com/theoyu314159/python-qrcode-make
+文章生成工具：https://github.com/theoyu314159/chatgpt-2-wordmake
+網站ip查詢工具：https://github.com/theoyu314159/ip-host-python-
+barcode生成工具：https://github.com/theoyu314159/Python-barcode
 
 # 社群網站
-https://github.com/hackeryu314159,https://huggingface.co/hackeryu314159.
+https://github.com/theoyu314159,https://huggingface.co/theoyu314159.
 # 合作夥伴們
 Jimmy876135	
 <!---
