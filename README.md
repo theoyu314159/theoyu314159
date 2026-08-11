@@ -21,6 +21,3 @@ Hi! I’m Yu Lin, a high school student from the north. My life revolves around 
 
 Discord id: theoyu314159
 
-## 本站版權
-
-[背景圖片](https://www.threads.com/@fusionwallvibe/post/DEpvKt8sk6o?hl=zh-hk)
