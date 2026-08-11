@@ -1,3 +1,8 @@
+---
+title: 關於我
+date: 2026-08-04 19:57:55
+type: "about"
+---
 # theoyu314159
 yuyoru
 ## 中文版介紹
@@ -13,3 +18,9 @@ Hi! I’m Yu Lin, a high school student from the north. My life revolves around 
 [HackMD](https://hackmd.io/@theoyu314159)
 
 [GitHub](https://github.com/theoyu314159)
+
+Discord id: theoyu314159
+
+## 本站版權
+
+[背景圖片](https://www.threads.com/@fusionwallvibe/post/DEpvKt8sk6o?hl=zh-hk)
